@@ -1,2 +1,2 @@
 # houseKeeping-
-## automate and scheduling tasks in node.js
+## automate and scheduling data housekeeeping with node.js and npm-cron package
